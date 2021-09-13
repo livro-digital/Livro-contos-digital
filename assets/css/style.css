@@ -16,6 +16,14 @@ body {
   color: black;
   font-size: 20px;
 }
+.sobre1{
+  margin-top: 50px;
+}
+.sobre2{
+  text-align: center;
+  color: black;
+  font-size: 40px;
+}
  .disciplina{
   text-align: center;
   font-size: 20px;
@@ -388,7 +396,7 @@ p{
 --------------------------------------------------------------*/
 #hero ,#hero2{
   width: 100%;
-  height: 100vh;
+  height: 800px;
   background-color: rgba(34, 39, 43, 0.8);
   overflow: hidden;
   position: relative;
@@ -403,6 +411,7 @@ p{
   right: 0;
   left: 0;
   bottom: 0;
+  text-align: center;
 }
 
 #hero .carousel-item::before {
@@ -454,7 +463,6 @@ p{
 #hero .carousel-inner .carousel-item-next.carousel-item-left,
 #hero .carousel-inner .carousel-item-prev.carousel-item-right {
   opacity: 1;
-  transition: 0.5s;
 }
 
 #hero .carousel-inner .carousel-item-next,
