@@ -16,8 +16,14 @@ body {
   color: black;
   font-size: 20px;
 }
+.testimonials{
+  font-size: 30px;
+  color: black;
+  text-align: center;
+}
 .sobre1{
   margin-top: 50px;
+  color: white;
 }
 .sobre2{
   text-align: center;
@@ -83,7 +89,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 p{
   font-size: 30px;
-  color: white;
+  color: black;
   text-align: center;
 }
 
