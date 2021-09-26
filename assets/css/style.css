@@ -474,17 +474,15 @@ p{
 #hero ,#hero2{
   width: 100%;
   height: 800px;
-  overflow: hidden;
   position: relative;
 }
 #hero{
   background-color: rgba(34, 39, 43, 0.8);
+  overflow: hidden;
 }
 #hero2{
-  background-color: 
-#8c7445
-
-;
+  background-color: #8c7445;
+  overflow: auto;
 }
 #hero .carousel, #hero .carousel-inner, #hero .carousel-item, #hero .carousel-item::before {
   background-size: cover;
