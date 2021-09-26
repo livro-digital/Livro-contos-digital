@@ -12,6 +12,7 @@ body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
   background-color: #f9eac3;
+  width: 100%;
 }
 #testimonials{
 
@@ -40,9 +41,11 @@ body {
 }
 td{
   background-color: #bdecb6;
+  font-size: 13px;
 }
 th{
   background-color: #90cf86;
+  font-size: 13px;
 }
 .testimonial-img: hover{
   width: 50px;
@@ -206,7 +209,7 @@ p{
 }
 
 .back-to-top i:hover {
-  background: #5697d0;
+  background: #228B22;
   color: #fff;
 }
 
@@ -280,7 +283,7 @@ p{
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #5697d0;
+  color: #228B22;
 }
 
 .nav-menu .drop-down ul {
@@ -471,7 +474,7 @@ p{
 # Hero Section
 --------------------------------------------------------------*/
 #hero ,#hero2{
-  width: 100%;
+  width: 100vw;
   position: relative;
 }
 #hero{
@@ -643,7 +646,7 @@ p{
 }
 
 #hero .btn-get-started:hover {
-  background: #5697d0;
+  background: #228B22;
 }
 
 @media (max-width: 768px) {
@@ -1017,7 +1020,7 @@ section {
 }
 
 .cta .cta-btn:hover {
-  background: #5697d0;
+  background: #228B22;
 }
 
 /*--------------------------------------------------------------
@@ -1404,7 +1407,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #5697d0;
+  background: #228B22;
 }
 
 @media (max-width: 1024px) {
@@ -1656,7 +1659,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #5697d0;
+  color: #228B22;
   font-size: 18px;
   line-height: 1;
 }
@@ -1679,7 +1682,7 @@ section {
 }
 
 #footer .footer-top .footer-links ul a:hover {
-  color: #5697d0;
+  color: #228B22;
 }
 
 #footer .footer-top .footer-contact {
