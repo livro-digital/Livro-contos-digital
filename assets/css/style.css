@@ -18,10 +18,16 @@ body {
   text-align: center;
   color: black;
   font-size: 30px;
+}.carousel-inner,.carousel-container,.container,.imgs{
+
+  margin-right: auto;
+  margin-left: auto;
 }
 .imgs{
-  width: 385px;
-  height: 600px;
+  width: 346.5px;
+  height: 540px;
+  margin-right: auto;
+  margin-left: auto;
 }
 #testimonials{
 
@@ -552,8 +558,8 @@ p{
   position: absolute;
   bottom: 0;
   top: 70px;
-  left: 50px;
-  right: 50px;
+  left: 40px;
+  right: 60px;
 }
 
 #hero .container {
