@@ -69,6 +69,12 @@ th{
   text-align: center;
   font-size: 40px;
 }
+.titu{
+  text-align: center;
+  font-size: 45;
+  background-color: #6a4025;
+  color: white;
+}
 .enre{
   text-align: center;
   font-size: 25px;
