@@ -14,7 +14,7 @@ body {
   background-color: #f9eac3;
   width: 100%;
 }
-#contracapa{
+.capas{
   width: 346.5px;
   height: 540px;
 }
@@ -32,6 +32,12 @@ body {
   height: 648px;
   margin-right: auto;
   margin-left: auto;
+}
+@media screen and (max-width: 700px){
+  .imgs, .capas{
+    width: 294.525px;
+    height: 459px;
+  }
 }
 #testimonials{
 
