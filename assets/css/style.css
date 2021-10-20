@@ -14,6 +14,10 @@ body {
   background-color: #f9eac3;
   width: 100%;
 }
+#contracapa{
+  width: 346.5px;
+  height: 540px;
+}
 .sigla{
   text-align: center;
   color: black;
@@ -24,8 +28,8 @@ body {
   margin-left: auto;
 }
 .imgs{
-  width: 346.5px;
-  height: 540px;
+  width: 415.8px;
+  height: 648px;
   margin-right: auto;
   margin-left: auto;
 }
